@@ -62,10 +62,10 @@
   <a href="https://github.com/Rahimabaig">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Rahimabaig&theme=radical&show_icons=true&hide_border=true&count_private=true" 
-      alt="Rahimabaig's GitHub Stats" width="500"/>
+      alt="Rahimabaig's GitHub Stats" height="180em"/>
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahimabaig&theme=radical&show_icons=true&hide_border=true&layout=compact" 
-      alt="Rahimabaig's Top Languages" width="500"/>
+      alt="Rahimabaig's Top Languages" height="180em"/>
   </a>
 </p>
 
@@ -73,9 +73,9 @@
 
 <p align="center">
   <a href="https://github.com/Rahimabaig">
-     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rahimabaig&theme=radical&hide_border=true" alt="Rahimabaig's Streak" width="800"/>
+     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rahimabaig&theme=radical&hide_border=true" alt="Rahimabaig's Streak" width="80%/>
   </a>
-</p>
+</p> 
 
 <p align="center">
   <img 
