@@ -73,10 +73,10 @@
 
 <p align="center">
   <a href="https://github.com/Rahimabaig">
-     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rahimabaig&theme=radical&hide_border=true" alt="Rahimabaig's Streak" width="80%/>
+     <img width=70% src="https://github-readme-streak-stats.herokuapp.com/?user=Rahimabaig&theme=radical&hide_border=true" alt="Rahimabaig's Streak"/>
   </a>
 </p> 
-
+<br>
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Rahimabaig&label=Profile%20Views&color=e60a74&style=flat" alt="Profile Views"> </p>
