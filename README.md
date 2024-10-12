@@ -63,7 +63,7 @@
 <p align="center">
   <a href="https://github.com/Rahimabaig">
     <img  height=180em src="https://github-readme-stats.vercel.app/api?username=Rahimabaig&theme=radical&show_icons=true&hide_border=true&count_private=true"  alt="Rahimabaig's GitHub Stats" />
-    <img  height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahimabaig&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Rahimabaig's Top Languages" width=50% />
+    <img  height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahimabaig&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Rahimabaig's Top Languages"  />
   </a>
 </p>
 
