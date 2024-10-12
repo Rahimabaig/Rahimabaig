@@ -56,22 +56,29 @@
   <img alt="Medium" src="https://img.shields.io/badge/Medium%20Profile-D3D3D3?style=for-the-badge&logo=medium&logoColor=black" />
 </a>
 
+
+
 <h2> GitHub Stats </h2>
 
-<p>
+<p align="center">
   <a href="https://github.com/Rahimabaig">
-    <img  src="https://github-readme-stats.vercel.app/api?username=Rahimabaig&theme=radical&show_icons=true&hide_border=true&count_private=true"  alt="Rahimabaig's GitHub Stats" />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahimabaig&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Rahimabaig's Top Languages" width=50% />
+    <img  height=180em src="https://github-readme-stats.vercel.app/api?username=Rahimabaig&theme=radical&show_icons=true&hide_border=true&count_private=true"  alt="Rahimabaig's GitHub Stats" />
+    <img  height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahimabaig&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Rahimabaig's Top Languages" width=50% />
   </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahimabaig&bg_color=141321&color=8fc2dc&line=e60a74&point=6c6569&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Rahimabaig&bg_color=141321&color=8fc2dc&line=e60a74&point=6c6569&area=true&hide_border=true" alt="Ashutosh's GitHub Activity Graph"/>
+</a></p>
+
 
 <p align="center">
   <a href="https://github.com/Rahimabaig">
      <img width=70% src="https://github-readme-streak-stats.herokuapp.com/?user=Rahimabaig&theme=radical&hide_border=true" alt="Rahimabaig's Streak"/>
   </a>
 </p> 
+
 <br>
 <p align="center">
   <img 
