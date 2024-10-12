@@ -62,10 +62,10 @@
   <a href="https://github.com/Rahimabaig">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Rahimabaig&theme=radical&show_icons=true&hide_border=true&count_private=true" 
-      alt="Rahimabaig's GitHub Stats" height="180em"/>
+      alt="Rahimabaig's GitHub Stats" width=50% />
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahimabaig&theme=radical&show_icons=true&hide_border=true&layout=compact" 
-      alt="Rahimabaig's Top Languages" height="180em"/>
+      alt="Rahimabaig's Top Languages" width=50% />
   </a>
 </p>
 
