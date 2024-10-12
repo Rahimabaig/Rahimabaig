@@ -7,16 +7,16 @@
 
 <p>
   <a href="https://github.com/Rahimabaig/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Science+Enthusiast;I'm+Aspiring+to+be+a+Data+Scientist;I'm+a+Computer+Science+engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Hey+there+!+Glad+you’re+here;Let's+connect!..." />
   </a>
 </p>
 
  <h2> About Me:</h2>
 
 - Pursuing BSCS from the University of Karachi (UOK).
-- Currently working on data structures and algorithms.
+- Currently working on data structures and algorithms in cpp.
 - Learning Python and exploring its powerful libraries.
-- Aspiring to become a data scientist.
+- Aspire to become a data scientist.
 - Love watching podcasts to stay inspired and informed.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
